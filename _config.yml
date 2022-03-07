@@ -3,17 +3,23 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Darling02
-subtitle: ''
-description: ''
+title: 小屁孩的小站
+subtitle: ALL at sea.
+description: DARLING in the FRANXX
 keywords:
+  - Darling02
+  - Blog
+  - 小屁孩
+  - 博客
+  - Darling02
+  - https://darling024.github.io/
 author: 小屁孩02
-language: ch
-timezone: ''
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://darling02.com
+url: https://darling024.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -105,5 +111,4 @@ deploy:
   type: git
   repo: https://github.com/darling024/darling024.github.io
   branch: master
-  message: 新的博客
-
+  message: new
